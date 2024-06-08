@@ -2,6 +2,8 @@
 
 Este é um bot do Telegram que monitora jogos de CS2 (Counter-Strike 2) e envia mensagens com informações sobre partidas em andamento. Ele também inclui um botão com um link para mais informações sobre os jogos.
 
+![Exemplo de mensagem do bot](src/assets/imgs/image.png)
+
 ## Instalação
 
 Para instalar e executar este projeto, siga os passos abaixo:
