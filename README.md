@@ -10,12 +10,13 @@ Para instalar e executar este projeto, siga os passos abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/DevEduardoSouza/CS2-monitoring-bot.git
+ 
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd CS2-monitoring-bot
     ```
 
 3. Instale as dependências:
